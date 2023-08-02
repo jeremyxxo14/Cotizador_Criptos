@@ -22,6 +22,9 @@ const Imagen = styled.img`
   width: 80%;
   margin: 100px  auto 0 auto;
   display: block;
+  @media (max-width: 992px){
+    margin: 50px auto;
+  }
 `
 const Heading = styled.h1`
   font-family: 'Lato', sans-serif;

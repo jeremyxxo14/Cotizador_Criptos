@@ -16,6 +16,7 @@ const InputSumit = styled.input `
     border-radius: 5px;
     transition: background-color .3s ease;
     margin-top: 30px;
+    margin-bottom: 50px;
 
     &:hover {
         background-color: #7a7dfe;
